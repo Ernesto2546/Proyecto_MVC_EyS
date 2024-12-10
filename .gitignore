@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignorar archivos .bin y .json 
+*.bin 
+*.json
