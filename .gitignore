@@ -51,7 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Ignorar archivos .bin, .vs y .json 
+# Ignorar archivos .bin, .vs, .obj y .json 
 *.bin 
 *.json
 *.vs
+.obj/
