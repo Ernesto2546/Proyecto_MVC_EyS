@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EyS_Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50f0cbe880a2c14c661b1427455370b5c6f4a58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c396a9533386971663305b6bc807b532ae53a61")]
 [assembly: System.Reflection.AssemblyProductAttribute("EyS_Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EyS_Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
