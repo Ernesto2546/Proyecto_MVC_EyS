@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EyS_WebRazor_Temp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c396a9533386971663305b6bc807b532ae53a61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad593d30c2216d178ad48fb3217fc27116a884a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EyS_WebRazor_Temp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EyS_WebRazor_Temp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
