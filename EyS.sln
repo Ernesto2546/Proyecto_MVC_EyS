@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EyS_Web", "EyS_Web\EyS_Web.csproj", "{5018E565-898D-4A99-B489-3D99533CADBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyS_WebRazor_Temp", "EyS_WebRazor_Temp\EyS_WebRazor_Temp.csproj", "{0E646FF1-E95B-45E9-95FF-3D77E2356C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EyS_WebRazor_Temp", "EyS_WebRazor_Temp\EyS_WebRazor_Temp.csproj", "{0E646FF1-E95B-45E9-95FF-3D77E2356C87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
