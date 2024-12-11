@@ -1116,3 +1116,7 @@ C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\obj\Debug\ne
 C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\obj\Debug\net8.0\EyS_Web.pdb
 C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\obj\Debug\net8.0\EyS_Web.genruntimeconfig.cache
 C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\obj\Debug\net8.0\ref\EyS_Web.dll
+C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\bin\Debug\net8.0\EyS.DataAccess.dll
+C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\bin\Debug\net8.0\EyS.Models.dll
+C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\bin\Debug\net8.0\EyS.DataAccess.pdb
+C:\Users\Trabajo\Desktop\Practicas Trabajo\Proyecto_MVC_EyS\EyS_Web\bin\Debug\net8.0\EyS.Models.pdb
